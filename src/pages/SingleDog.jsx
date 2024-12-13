@@ -46,14 +46,12 @@ function SingleDog () {
             key={item.id} 
             className="grid grid-cols-1 gap-8 p-8 md:grid-cols-2 md:place-items-center"
           >
-           
             <article>
               <img
                 src={`https://cdn2.thedogapi.com/images/${item.reference_image_id}.jpg`}
                 alt={item.name} // Use the dog's name for alt text
               />
             </article>
-
             
             <article>
               <h1 className="text-3xl font-bold text-white mb-8 lg:text-5xl">
