@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"; // Import React, useState, and useEffect hooks
 import { Link } from "react-router-dom"; // Import Link for routing
 
-// Define the Fav component
+// Define Fav component
 // const [savedDogs, setSaveDogs] Initialize state to hold saved favorite dogs, loaded from localStorage
 // Save the updated list to localStorage
 
