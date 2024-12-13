@@ -1,5 +1,5 @@
 Overview:
-This is a React-based project that incorporate API where I used thedogapi.com.  It is a simple and interactive web app for dog lovers where they can choose their favourite one and able to saved them on the Favourite Page. The users can view detailed information like dog's breeds, images, description, breed, age, life span, and temperament in each card. Each card has a heart button which work as favourite button that allows users to save their favourite dog and it’s been marked. The design is responsive, ensuring a great experience on different devices.
+This is a React-based project that incorporate API where I used thedogapi.com.  It is a simple and interactive web app for dog lovers where they can choose their favourite one and able to save them on the Favourite Page. The users can view detailed information like dog's breeds, images, description, breed, age, life span, and temperament in each card. Each card has a heart button which work as favourite button that allows users to save their favourite dog and it’s been marked. The design is responsive, ensuring a great experience on different devices.
 
 Instructions: 
 1- download all the file 
