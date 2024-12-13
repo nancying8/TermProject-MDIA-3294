@@ -1,0 +1,11 @@
+/* use the Tailwind CSS to used on the components */
+
+/* import Tailwind's base, including resets and basic styling defaults */
+@tailwind base;
+
+/* import Tailwind's component, providing reusable styles for common UI components */
+@tailwind components;
+
+/* import Tailwind's utilities, allowing for fast, low-level styling directly in HTML */
+@tailwind utilities;
+
